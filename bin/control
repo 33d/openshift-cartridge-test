@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo Test cartridge: control $1 called
+
